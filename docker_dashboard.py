@@ -1,6 +1,7 @@
 """
     KUDOS TO https://github.com/mingrammer/python-curses-scroll-example/blob/master/tui.py
-    docker_dashboard build by @mpgn_x64
+    docker_dashboard build by @mpgn_x64 / github.com/mpgn
+    licence: GNU General Public License v3.0
 """
 
 import curses
